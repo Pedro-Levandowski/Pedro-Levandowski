@@ -1,6 +1,7 @@
 - 👋 Olá, sou o @Pedro-Levandowski
-- 🦅 Torço para o Corinthians
+- 📖 Estudo Engenharia de Software na UniFil
 - 📍 Moro em Londrina-PR
+
 
 <!---
 Pedro-Levandowski/Pedro-Levandowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
