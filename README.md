@@ -1,5 +1,6 @@
 - 👋 Olá, sou o @Pedro-Levandowski
-- 📖 Estudo Engenharia de Software na UniFil
+- 📖 Aluno de Engenharia de Software na UniFil
+- 💼 Estagiário em Desenvolvimento Python na Scod Solutions
 - 📍 Moro em Londrina-PR
 
 
