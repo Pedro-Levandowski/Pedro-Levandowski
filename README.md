@@ -28,7 +28,7 @@
 
 <section class="container">
     <h2>📩 Contato</h2>
-    <a href="https://www.linkedin.com/in/www.linkedin.com/in/pedro-alpino-levandowski/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><img width="10" /><a href="https://www.instagram.com/pedro_levandowski/" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><img width="10" /><a href="mailto:pedro.levandowski05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/pedro-alpino-levandowski/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><img width="10" /><a href="https://www.instagram.com/pedro_levandowski/" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><img width="10" /><a href="mailto:pedro.levandowski05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </section><br>
 
 <footer>
