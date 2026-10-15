@@ -3,7 +3,7 @@
 <section class="container">
     <h2>👨‍💻 Sobre mim</h2>
     <ul>
-        <li>🎓 Estudante do 5º período de <b>Engenharia de Software</b> na UniFil.</li>
+        <li>🎓 Estudante do 6º período de <b>Engenharia de Software</b> na UniFil.</li>
         <li>💼 <b>Estagiário em Desenvolvimento Python</b> com foco em extração de dados e Web Scraping na SCOD Solutions.</li>
         <li>🎸 Nas horas vagas gosto de jogar CS, Rocket League, FIFA, NBA2K, tocar violão, praticar esportes e também gosto de escutar sertanejo.</li>
     </ul>
